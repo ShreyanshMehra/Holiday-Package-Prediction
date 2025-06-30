@@ -1,4 +1,4 @@
-# 🏖️ Holiday Package Prediction using Machine Learning
+# Holiday Package Prediction using Machine Learning
 
 This project focuses on predicting whether an employee will purchase a holiday package based on demographic, behavioral, and company-related features. The classification model has been trained using ensemble techniques, including **XGBoost**, **Gradient Boosting**, **Random Forest**, **Decision Tree**, and **AdaBoost**, with hyperparameter tuning for optimal performance.
 
@@ -30,18 +30,18 @@ Some of the key features include:
 
 ## 🔧 Project Workflow
 
-### 1. 🧹 Data Preprocessing
+### 1. Data Preprocessing
 - Handled missing values
 - Encoded categorical features
 - Feature engineering for important patterns
 - Scaling and normalization
 
-### 2. 📊 Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 - Distribution plots
 - Correlation matrix
 - Class imbalance checks
 
-### 3. 🚀 Model Training & Evaluation
+### 3. Model Training & Evaluation
 
 Models used:
 - XGBoost (Best performer ✅)
@@ -72,7 +72,7 @@ Techniques:
 ---
 ## 🛠️ Tech Stack
 
-- Python 🐍  
+- Python 
 - Pandas, NumPy  
 - Scikit-learn  
 - XGBoost, LightGBM  
@@ -81,7 +81,7 @@ Techniques:
 
 ---
 
-## ✅ Future Improvements
+## Future Improvements
 
 - Incorporate deep learning models  
 - Add explainability using SHAP or LIME  
